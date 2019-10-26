@@ -9,6 +9,10 @@ Hacktoberfest Classroom Project 2019
 
 ## Participants
 
+### Shubham
+[Shubham](https://github.com/shubhkk07/)
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+
 ### Jeff 
 [JeffHow](https://github.com/jeffhow/)
 > Simple doesn't always mean easy
@@ -48,6 +52,11 @@ Hacktoberfest Classroom Project 2019
 
 .[budderdude](https://github.com/budderdude/)
 > i got some milk so that was pretty cool 
+
+
+
+
+
 ---
 #this is an edit and i want a shirt
 ---
