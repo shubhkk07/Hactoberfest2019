@@ -11,7 +11,7 @@ Hacktoberfest Classroom Project 2019
 
 ### Shubham
 [Shubham](https://github.com/shubhkk07/)
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
 ### Jeff 
 [JeffHow](https://github.com/jeffhow/)
